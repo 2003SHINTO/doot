@@ -11,4 +11,4 @@ fileptr.write("python is a modern language")
 fileptr.close()
 ```
 [krishna kumar](https://github.com/kumarkrishna2003)
-1[alt sorry](https://github.com/2003SHINTO/doot/blob/main/file/img/images.jpeg)
+![alt electron](https://github.com/2003SHINTO/doot/blob/main/file/img/images.jpeg)
